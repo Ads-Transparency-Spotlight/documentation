@@ -23,16 +23,16 @@ The “Ads” tab displays information about ads, including the ad technology pr
 
 You can view the following types of information about the ads on a web page:
 
-- *Detailed information about the ads on the page*, including how many ads are on the page.
-- *A list of ad providers responsible for delivering ads to the page*. These companies serve ads or provide the ad technology to help ads appear on this page.
-- *The reasons why ads are shown on a page*. A combination of several factors that decide which ad will be shown on a page:
-   - *Your demographics*: May include age, gender, and other information (provided by you or inferred).
-   - *Marketing campaign*: A visit to the advertiser’s website added you to a marketing campaign.
-   - *Your location, general*: Broad location, such as country or city.
-   - *Your interests*: Topics related to websites you have visited or interests you provided.
-   - *Context*: Topics shown to anyone who visits this page.
-   - *Other information*: All other reasons.
-   - *Your location, specific*: Your specific location, including latitude and longitude.
+- **Detailed information about the ads on the page**, including how many ads are on the page.
+- **A list of ad providers responsible for delivering ads to the page**. These companies serve ads or provide the ad technology to help ads appear on this page.
+- **The reasons why ads are shown on a page**. A combination of several factors that decide which ad will be shown on a page:
+   - **Your demographics**: May include age, gender, and other information (provided by you or inferred).
+   - **Marketing campaign**: A visit to the advertiser’s website added you to a marketing campaign.
+   - **Your location, general**: Broad location, such as country or city.
+   - **Your interests**: Topics related to websites you have visited or interests you provided.
+   - **Context**: Topics shown to anyone who visits this page.
+   - **Other information**: All other reasons.
+   - **Your location, specific**: Your specific location, including latitude and longitude.
 
 ### Entities tab
 
