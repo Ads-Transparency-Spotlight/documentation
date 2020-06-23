@@ -79,4 +79,3 @@ Our ultimate goal is to support a more transparent ad ecosystem globally. We hop
 - [README](README.md)
 - **Overview of the Ads Transparency Spotlight (Alpha) extension**
 - [Implement the Ads Transparency Spotlight (Alpha) Data Disclosure schema](implement.md)
-- [License](LICENSE.MD)
