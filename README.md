@@ -12,12 +12,9 @@ ads and more control over that data.
 
 ## Table of contents
 
+- **README**
 - [Overview of the Ads Transparency Spotlight (Alpha) extension](overview.md)
 - [Implement the Ads Transparency Spotlight (Alpha) Data Disclosure schema](implement.md)
-
-## License
-
-Read the [License](LICENSE.MD).
 
 ## Disclaimer
 
