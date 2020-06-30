@@ -2,7 +2,7 @@
 
 The Ads Transparency Spotlight extension for Chrome shows website visitors information about the ads on a web page. However, the extension can only display information about ads displayed using the Ad Disclosure Schema.
 
-At the time of this alpha release (April 2020), the extension only shows information about those ads purchased through Google Ads that have implemented the Ads Transparency Spotlight(Alpha) Data Disclosure schema. As additional ad tech providers implement this schema, information about these ads will also appear in the extension. Over time, we hope the industry will incorporate the Ads Transparency Spotlight(Alpha) Data Disclosure schema into their ads.
+At the time of this alpha release (July 2020), the extension only shows information about those ads purchased through Google Ads that have implemented the Ads Transparency Spotlight(Alpha) Data Disclosure schema. As additional ad tech providers implement this schema, information about these ads will also appear in the extension. Over time, we hope the industry will incorporate the Ads Transparency Spotlight(Alpha) Data Disclosure schema into their ads.
 
 ## How the schema works
 
