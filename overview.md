@@ -69,8 +69,7 @@ Our initial goal is to provide a tool for transparency into the criteria being u
 
 Our ultimate goal is to support a more transparent ad ecosystem globally. We hope you’ll try the extension and give us feedback so that we can continue to improve it.
 
-<a href="https://forms.gle/PNrSmRp4RNRdem2S9"><button style="font-size:20px">Send us your feedback <i class="fa fa-envelope"></i></button></a>
-
+<a href="https://forms.gle/PNrSmRp4RNRdem2S9" class="button icon chat big" aria-label="Send us your feedback">Send us your feedback</a>
 
 ---
 
