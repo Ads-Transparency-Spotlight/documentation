@@ -1,10 +1,10 @@
 # Overview of the Ads Transparency Spotlight (Alpha) extension
 
-Our new Ads Transparency Spotlight(Alpha) extension for Chrome is part of our ongoing initiative to give people more visibility into the data used to personalize ads and more control over that data. Ultimately, we hope this will lead to better, industry-wide ads transparency and control for users.
+The new Ads Transparency Spotlight (Alpha) extension for Chrome is part of an ongoing initiative to give people more visibility into the data used to personalize ads and more control over that data. Ultimately, we hope this will lead to better, industry-wide ads transparency and control for users.
 
 This first version of the extension is an early-stage proof of concept that displays the data used to tailor the ads you see, who is serving the ads, and companies with a presence on the web page. We are currently exploring other controls for users.
 
-At the time of this alpha release (July 2020), the extension only shows information about those ads purchased through Google Ads that have implemented the Ads Transparency Spotlight(Alpha) Data Disclosure schema. As additional ad tech providers implement this schema, information about these ads will also appear in the extension. Over time, we hope the industry will incorporate the Ads Transparency Spotlight(Alpha) Data Disclosure schema into their ads.
+At the time of this alpha release (July 2020), the extension only shows information about those ads purchased through Google Ads that have implemented the Ads Transparency Spotlight (Alpha) Data Disclosure schema. As additional ad tech providers implement this schema, information about these ads will also appear in the extension. Over time, we hope the industry will incorporate the Ads Transparency Spotlight Data Disclosure schema into their ads.
 
 In this article, you will find:
 
