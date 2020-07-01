@@ -6,9 +6,9 @@ repository.
 
 ## What is this Chrome extension?
 
-Our new Ads Transparency Spotlight(Alpha) extension for Chrome is part of our
-ongoing initiative to give people more visibility into the data used to personalize
-ads and more control over that data. 
+The Ads Transparency Spotlight (Alpha) extension for Chrome is part of an ongoing
+initiative to give people more visibility into the data used to personalize ads
+ads and more control over that data.
 
 ## Table of contents
 
