@@ -46,9 +46,9 @@ Complete the following steps to install the Ads Transparency Spotlight extension
 
 1. Open the Chrome web browser.
    Ensure you aren’t in Incognito mode. You can't add extensions to Chrome when you browse in Incognito mode or as a guest.
-1. Use the following link to go directly to the Ads Transparency Spotlight extension page in the Chrome Web Store: [Install Ads Transparency Spotlight](https://chrome.google.com/webstore/detail/ads-transparency-spotligh/bhkabniemblobiimldadcnopjjfbfnka)
+1. Use the following link to go directly to the Ads Transparency Spotlight extension page in the Chrome Web Store: [Install Ads Transparency Spotlight](https://chrome.google.com/webstore/detail/ads-transparency-spotligh/gkbmnjmlhjnakmfjcejhlhpnibcbjdnl/)
    If you can’t click the link, copy and paste the following URL into your Chrome browser:
-	https://chrome.google.com/webstore/detail/ads-transparency-spotligh/bhkabniemblobiimldadcnopjjfbfnka
+	https://chrome.google.com/webstore/detail/ads-transparency-spotligh/gkbmnjmlhjnakmfjcejhlhpnibcbjdnl/
 1. Click **Add to Chrome**.
    The Ads Transparency Spotlight icon will appear in the extension toolbar near the address bar in your Chrome browser.
 
